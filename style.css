@@ -1,0 +1,15 @@
+#logo {
+  font-family: "Audiowide", san-serif;
+  font-style: italic;
+  font-size: 5vw;
+}
+
+#container {
+  display: flex;
+  height: 100vh;
+}
+
+.chart {
+  flex-basis: 100%;
+  flex: 1;
+}
