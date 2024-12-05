@@ -9,7 +9,7 @@
   height: 100vh;
 }
 
-.chart {
+#chart_stock_price {
   flex-basis: 100%;
   flex: 1;
 }
